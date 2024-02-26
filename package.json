@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Our real-time chat application repository is a collaborative project aimed at building an interactive and efficient messaging platform. Leveraging cutting-edge technologies such as WebSockets, Node.js, and MongoDB, our repository provides a scalable and robust solution for real-time communication. With features like instant messaging, user authentication, message encryption, and multimedia sharing, our chat app repository offers a seamless and secure chatting experience. Developers can contribute to the project, enhance functionality, and customize the app to meet specific requirements, making it suitable for a wide range of applications, from team collaboration tools to customer support systems.",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0"
+  }
+}
